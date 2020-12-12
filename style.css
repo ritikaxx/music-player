@@ -1,0 +1,139 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box; 
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+   }
+
+   h1{
+    text-align: center;
+     font-size: 2.8rem;
+    color: white;
+    padding: 50px 0;
+   }
+   span{
+       color: brown;
+   }
+   main{
+    background-color:lightsalmon;
+    width: 100%; 
+    height: 1150px;
+    margin: auto; 
+    border: 1px solid black;
+    display: flex;
+     justify-content: space-around;
+    align-items: center;
+     flex-wrap: wrap;
+
+   }
+   
+   div{
+    width: 30%; height: 160px;
+    /*border: 1px solid red;*/
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 10px;
+     cursor: pointer;
+   margin-left: 130px;
+   border: 100px;
+   border-color: black;
+   }
+   
+   .a{
+     background-image: url('./images/song1.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     width: 300px;
+     height: 300px;
+   }
+   .a:hover{
+       border-radius: 10%;
+       transform: scale(1.2);
+   }
+   .b{
+   background-image: url('./images/song2.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+   }
+   .b:hover{
+    border-radius: 10%;
+    transform: scale(1.2);
+}
+   .c{
+   background-image: url('./images/song3.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+   }
+   .c:hover{
+    border-radius: 10%;
+    transform: scale(1.2);
+}
+   .d{
+   background-image: url('./images/song4.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+   }
+   .d:hover{
+    border-radius: 10%;
+    transform: scale(1.2);
+}
+   .e{
+   background-image: url('./images/song5.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+   }
+   .e:hover{
+    border-radius: 10%;
+    transform: scale(1.2);
+}
+   .f{
+   background-image: url('./images/song6.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+   }
+   .f:hover{
+    border-radius: 10%;
+    transform: scale(1.2);
+}
+   .g{
+   background-image: url('./images/song7.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+   }
+   .g:hover{
+    border-radius: 10%;
+    transform: scale(1.2);
+}
+   .h{
+   background-image: url('./images/song8.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+   }
+   .h:hover{
+    border-radius: 10%;
+    transform: scale(1.2);
+}
+   .i{
+   background-image: url('./images/song9.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+   }
+   .i:hover{
+    border-radius: 10%;
+    transform: scale(1.2);
+}
